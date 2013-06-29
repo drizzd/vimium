@@ -37,7 +37,8 @@
              "content_scripts/vomnibar.js",
              "content_scripts/scroller.js",
              "content_scripts/marks.js",
-             "content_scripts/vimium_frontend.js"
+             "content_scripts/vimium_frontend.js",
+             "content_scripts/htmlsearch.js"
             ],
       "css": ["content_scripts/vimium.css"],
       "run_at": "document_start",
